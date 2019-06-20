@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\project c++\avl-tree\avl-tree\source.cpp(292): warning C4715: 'checkName1': not all control paths return a value
+  AVL-Tree.vcxproj -> E:\project C++\AVL-Tree\Debug\AVL-Tree.exe

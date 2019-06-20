@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\project c++\test2-dsa\test2-dsa\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+e:\project c++\test2-dsa\test2-dsa\source.cpp(88): warning C4018: '>': signed/unsigned mismatch
+e:\project c++\test2-dsa\test2-dsa\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+e:\project c++\test2-dsa\test2-dsa\source.cpp(110): warning C4018: '>': signed/unsigned mismatch
+e:\project c++\test2-dsa\test2-dsa\source.cpp(114): warning C4018: '>': signed/unsigned mismatch
+e:\project c++\test2-dsa\test2-dsa\source.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  Test2-DSA.vcxproj -> E:\project C++\Test2-DSA\Debug\Test2-DSA.exe

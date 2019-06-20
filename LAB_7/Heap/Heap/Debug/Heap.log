@@ -1,0 +1,7 @@
+﻿  Source.cpp
+F:\project C++\Heap\Heap\Source.cpp(20,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+F:\project C++\Heap\Heap\Source.cpp(30,28): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+F:\project C++\Heap\Heap\Source.cpp(42,9): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+F:\project C++\Heap\Heap\Source.cpp(142,27): warning C4244:  '+=': conversion from 'double' to 'long', possible loss of data
+F:\project C++\Heap\Heap\Source.cpp(152,32): warning C4244:  '+=': conversion from 'double' to 'long', possible loss of data
+  Heap.vcxproj -> F:\project C++\Heap\Debug\Heap.exe
